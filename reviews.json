@@ -1,0 +1,16 @@
+[
+  {
+    "customer_name": "Customer One",
+    "review": "Add a genuine customer review here.",
+    "rating": 5,
+    "date": "2026-01-15",
+    "visible": true
+  },
+  {
+    "customer_name": "Customer Two",
+    "review": "Add another genuine customer review here.",
+    "rating": 5,
+    "date": "2026-02-10",
+    "visible": true
+  }
+]
