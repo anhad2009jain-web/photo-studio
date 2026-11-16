@@ -1,14 +1,8 @@
 {
-  "studio_name": "First Click Prop Studio",
-  "tagline": "Capturing Little Moments",
-  "logo": "",
-  "phone": "",
-  "whatsapp": "",
-  "email": "",
-  "address": "Indore",
-  "instagram": "",
-  "facebook": "",
-  "hero_title": "Little moments. A lifetime of wonder.",
-  "hero_description": "Where your little one's first moments become timeless.",
-  "hero_image": ""
+  "sectionTitle": "About Ganesh Digital Studio",
+  "subtitle": "Every moment deserves to be remembered.",
+  "story": "Write your studio story here. Introduce your team, your photography style, and what makes your studio different.",
+  "experience": 0,
+  "eventsCovered": 0,
+  "image": "/media/images/about-studio.jpg"
 }

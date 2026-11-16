@@ -1,0 +1,10 @@
+{
+  "studioName": "Ganesh Digital Studio",
+  "heroTitle": "Capture Your Most Precious Moments",
+  "heroDescription": "Honest emotions. Artful frames. Timeless memories.",
+  "heroImage": "/media/images/homepage-hero.jpg",
+  "primaryButtonText": "Explore Our Work",
+  "primaryButtonLink": "#portfolio",
+  "secondaryButtonText": "Contact Us",
+  "secondaryButtonLink": "#contact"
+}
